@@ -1,0 +1,19 @@
+.yellow-page {
+	background-color: #E1E441; /*yellow*/
+	color: #0D6F62; /*green*/
+}
+
+.green-page {
+	background-color: #0D6F62; /*green*/
+	color: #E1E441; /*yellow*/
+}
+
+.main-button {
+  background-color: #E1E441; /*yellow*/
+  color: #0D6F62; /*green*/
+  border: 1px solid #0D6F62; /*green*/
+}
+
+.name-title {
+	text-align: center;
+}
